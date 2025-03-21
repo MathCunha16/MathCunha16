@@ -36,6 +36,7 @@ I’m a **Backend Developer** from Goiás, Brazil, currently in my *3rd semester
 - **Email**: [matheuscunhaprado@gmail.com](mailto:matheuscunhaprado@gmail.com)  
 - **GitHub**: [github.com/MathCunha16](https://github.com/MathCunha16)  
 
-🥋 **Fun Fact**: When I’m not coding, I’m training MMA—because even developers need to throw a good punch sometimes! 💥  
+#### 🥋 Fun Fact  
+When I’m not coding, I’m throwing punches in MMA—because after dealing with endless bugs, something’s gotta take the hit! 💥  
 
 *“Code hard, fight harder.”*  
