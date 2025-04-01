@@ -1,8 +1,10 @@
 # Hello, I'm Matheus Cunha Prado! 👋  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscunhaprado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscunhaprado)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathCunha16)
 [![GitHub Follow](https://img.shields.io/github/followers/MathCunha16?label=Follow&style=social)](https://github.com/MathCunha16)
+
 
 ### 🌟 About Me  
 I’m a **Backend Developer** from Goiás, Brazil, currently in my *3rd semester of ADS (Analysis and Systems Development)*. I love tackling projects that push my limits—whether solo or with a team. While most of my repositories are private (team projects in progress!), I’ll be sharing polished showcase repos soon! 🚀  
@@ -32,7 +34,8 @@ I’m a **Backend Developer** from Goiás, Brazil, currently in my *3rd semester
 🔧 **IoT Full-Stack Platform** - Collaborating with classmates to develop an end-to-end IoT solution (*hardware + backend + frontend*). Stay tuned for future updates!  
 
 ### 📫 Let’s Connect!  
-- **Email**: [matheuscunhaprado@gmail.com](mailto:matheuscunhaprado@gmail.com)  
+- **Email**: [matheuscunhaprado@gmail.com](mailto:matheuscunhaprado@gmail.com)
+- **LinkedIn**: [linkedin.com/in/matheuscunhaprado](https://www.linkedin.com/in/matheuscunhaprado)   
 - **GitHub**: [github.com/MathCunha16](https://github.com/MathCunha16)  
 
 #### 🥋 Fun Fact  
