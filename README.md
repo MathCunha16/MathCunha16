@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Currently in my 3rd semester of ADS (Analysis and Systems Development). While most of my repositories are private (team projects in progress!), I’ll be sharing polished showcase repos soon! 🚀</h5>
+<h4 align="left">Currently in my 3rd semester of ADS (Analysis and Systems Development). While most of my repositories are private (team projects in progress!), I’ll be sharing polished showcase repos soon! 🚀</h4>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<p align="left">🔧 IoT Full-Stack Platform – Collaborating with classmates to build an end-to-end IoT solution (hardware + backend + frontend). Stay tuned for updates!<br><br>🤖 Scientific Research (AI + Environment) – Working on optimizing the YOLOv11 model to identify tree species in Brazil's Cerrado biome. Focused on fine-tuning and custom training strategies to improve accuracy and performance in real ecological scenarios.</p>
+<h4 align="left">🔧 IoT Full-Stack Platform – Collaborating with classmates to build an end-to-end IoT solution (hardware + backend + frontend). Stay tuned for updates!<br><br>🤖 Scientific Research (AI + Environment) – Working on optimizing the YOLOv11 model to identify tree species in Brazil's Cerrado biome. Focused on fine-tuning and custom training strategies to improve accuracy and performance in real ecological scenarios.</h4>
 
 ###
 
