@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="center">Contato</h3>
+<h2 align="center">Contact</h3>
 
 ###
 
