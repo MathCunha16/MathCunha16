@@ -1,44 +1,92 @@
-# Hello, I'm Matheus Cunha Prado! 👋  
+<h2 align="left">Hi 👋! My name is Matheus Cunha. I'm a back-end developer from Brazil.</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscunhaprado@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscunhaprado)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathCunha16)
-[![GitHub Follow](https://img.shields.io/github/followers/MathCunha16?label=Follow&style=social)](https://github.com/MathCunha16)
+###
 
+<h5 align="left">Currently in my 3rd semester of ADS (Analysis and Systems Development). While most of my repositories are private (team projects in progress!), I’ll be sharing polished showcase repos soon! 🚀</h5>
 
-### 🌟 About Me  
-I’m a **Backend Developer** from Goiás, Brazil, currently in my *3rd semester of ADS (Analysis and Systems Development)*. I love tackling projects that push my limits—whether solo or with a team. While most of my repositories are private (team projects in progress!), I’ll be sharing polished showcase repos soon! 🚀  
+###
 
-**Fun twist:** Though I specialize in backend, I can handle frontend basics to bring ideas to life. Beyond college, I’m always learning through online courses and building real-world solutions!  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathCunha16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MathCunha16&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-### 🛠️ Tech Stack  
-**Backend & Databases**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-**Frontend Basics**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-**Embedded & Tools**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+###
 
-### 🎯 Learning Goals  
-- **Mastering**: Java & backend architecture  
-- **Exploring**: Python automation and IoT integrations  
-- **Building**: Scalable APIs with Node.js and full-stack IoT systems  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
+</div>
 
-### 🚀 Highlight Project  
-🔧 **IoT Full-Stack Platform** - Collaborating with classmates to develop an end-to-end IoT solution (*hardware + backend + frontend*). Stay tuned for future updates!  
+###
 
-### 📫 Let’s Connect!  
-- **Email**: [matheuscunhaprado@gmail.com](mailto:matheuscunhaprado@gmail.com)
-- **LinkedIn**: [linkedin.com/in/matheuscunhaprado](https://www.linkedin.com/in/matheuscunhaprado)   
-- **GitHub**: [github.com/MathCunha16](https://github.com/MathCunha16)  
+<h2 align="left">Highlight Projects 🚀</h2>
 
-#### 🥋 Fun Fact  
-When I’m not coding, I’m throwing punches in MMA—because after dealing with endless bugs, something’s gotta take the hit! 💥  
+###
 
-*“Code hard, fight harder.”*  
+<p align="left">🔧 IoT Full-Stack Platform – Collaborating with classmates to build an end-to-end IoT solution (hardware + backend + frontend). Stay tuned for updates!<br><br>🤖 Scientific Research (AI + Environment) – Working on optimizing the YOLOv11 model to identify tree species in Brazil's Cerrado biome. Focused on fine-tuning and custom training strategies to improve accuracy and performance in real ecological scenarios.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MathCunha16/MathCunha16/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center">Contato</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
