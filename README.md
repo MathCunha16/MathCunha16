@@ -84,12 +84,6 @@
 
 <h4 align="left">🔧 Plataforma Full-Stack IoT – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!<br><br>🤖 Pesquisa Científica (IA + Meio Ambiente) – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.</h4>
 
-###
-
-<br clear="both" />
-
-###
-
 <h2 align="center">Contato</h3>
 
 ###
