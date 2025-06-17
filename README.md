@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Atualmente estou no 3º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀</h4>
+<h4 align="left">Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀</h4>
 
 ###
 
