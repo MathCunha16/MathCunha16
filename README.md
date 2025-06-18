@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathCunha16&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="gráfico de linguagens" />
-  <img src="https://streak-stats.demolab.com?user=MathCunha16&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="gráfico de sequência" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
 ###
@@ -84,7 +84,7 @@
 
 <h4 align="left">🔧 Plataforma Full-Stack IoT – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!<br><br>🤖 Pesquisa Científica (IA + Meio Ambiente) – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.</h4>
 
-<h2 align="center">Contato</h3>
+<h2 align="center">Contato</h2>
 
 ###
 
