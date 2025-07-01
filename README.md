@@ -74,6 +74,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VS Code" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo" title="Eclipse IDE" />
+  <img width="4" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30" alt="linux logo" title="Linux" />
 </div>
 
 ###
