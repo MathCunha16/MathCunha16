@@ -1,3 +1,14 @@
+<div align="center">
+  <p>
+    <strong>Idiomas:</strong>
+    <a href="README.md">🇧🇷 Português</a>
+     | 
+    <a href="README.en.md">🇺🇸 English</a>
+  </p>
+</div>
+
+---
+
 ## Olá 👋! Meu nome é Matheus Cunha e sou um desenvolvedor back-end.
 
 #### Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
