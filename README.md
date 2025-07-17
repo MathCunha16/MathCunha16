@@ -1,17 +1,11 @@
-<h2 align="left">Olá 👋! Meu nome é Matheus Cunha e sou um desenvolvedor back-end.</h2>
+## Olá 👋! Meu nome é Matheus Cunha e sou um desenvolvedor back-end.
 
-###
-
-<h4 align="left">Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀</h4>
-
-###
+#### Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathCunha16&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="gráfico de linguagens" />
- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
-
-###
 
 <div align="left">
   <!-- Linguagens -->
@@ -75,20 +69,16 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo" title="Eclipse IDE" />
   <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30" alt="linux logo" title="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30" alt="linux logo" title="Linux" />
 </div>
 
-###
+## Projetos em Destaque 🚀
 
-<h2 align="left">Projetos em Destaque 🚀</h2>
+* **AcadEx - Academic Exchange** – Dono e fundador da [Campus Code Team](https://github.com/Campus-Code-Team) (9 membros), liderando um projeto colaborativo para criar uma plataforma SaaS voltada para a comunidade acadêmica. Atuo como gestor e desenvolvedor back-end com Java. Mais novidades em breve!  
+* **Plataforma Full-Stack IoT** – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!  
+* **Pesquisa Científica (IA + Meio Ambiente)** – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.
 
-###
-
-<h4 align="left">🔧 Plataforma Full-Stack IoT – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!<br><br>🤖 Pesquisa Científica (IA + Meio Ambiente) – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.</h4>
-
-<h2 align="center">Contato</h2>
-
-###
+## Contato
 
 <div align="center">
   <a href="mailto:matheuscunhaprado@gmail.com" target="_blank">
