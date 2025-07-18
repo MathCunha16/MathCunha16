@@ -85,7 +85,7 @@
 
 ## Projetos em Destaque 🚀
 
-* **AcadEx - Academic Exchange** – Dono e fundador da [Campus Code Team](https://github.com/Campus-Code-Team) (9 membros), liderando um projeto colaborativo para criar uma plataforma SaaS voltada para a comunidade acadêmica. Atuo como gestor e desenvolvedor back-end com Java. Mais novidades em breve!  
+* **AcadEx - Academic Exchange** – Dono e fundador da [Campus Code Team](https://github.com/Campus-Code-Team), liderando um projeto colaborativo para criar uma plataforma SaaS voltada para a comunidade acadêmica. Atuo como gestor e desenvolvedor back-end com Java. Mais novidades em breve!  
 * **Plataforma Full-Stack IoT** – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!  
 * **Pesquisa Científica (IA + Meio Ambiente)** – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.
 
