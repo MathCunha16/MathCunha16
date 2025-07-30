@@ -78,13 +78,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" title="VS Code" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo" title="Eclipse IDE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30" alt="linux logo" title="Linux" />
 </div>
 
 ## Featured Projects 🚀
 
-* **AcadEx - Academic Exchange** – Owner and founder of [Campus Code Team](https://github.com/Campus-Code-Team) (9 members), leading a collaborative project to build a SaaS platform for the academic community. I serve as project manager and back-end developer using Java and Spring Boot. Stay tuned for updates!  
+* **AcadEx - Academic Exchange** – Owner and founder of [Campus Code Team](https://github.com/Campus-Code-Team), leading a collaborative project to build a SaaS platform for the academic community. I serve as project manager and back-end developer using Java and Spring Boot. Stay tuned for updates!  
 * **Full-Stack IoT Platform** – Collaborating with colleagues to develop a comprehensive IoT solution (hardware + backend + frontend). More updates coming soon!  
 * **Scientific Research (AI + Environment)** – Working on optimizing the YOLOv11 model to identify tree species in Brazil’s Cerrado biome. Focused on fine-tuning and custom training to improve accuracy in real-world ecological
