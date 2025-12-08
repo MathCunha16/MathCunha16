@@ -14,7 +14,6 @@
 #### I'm currently in my 4th semester of ADS (Systems Analysis and Development). While most of my repositories are private (ongoing team projects!), I’ll soon share more comprehensive portfolio repositories! 🚀
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathCunha16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
