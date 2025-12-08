@@ -14,7 +14,7 @@
 #### Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathCunha16&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="gráfico de linguagens" />
+<!-- Add grafico de linguagens dps -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
