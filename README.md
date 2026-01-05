@@ -88,8 +88,8 @@
 ## Contato
 
 <div align="center">
-  <a href="mailto:matheuscunhaprado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  <a href="mailto:matheuscunhaprado@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Proton&logo=protonmail&label=&color=6D4AFF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="proton mail logo" />
   </a>
   <a href="https://www.linkedin.com/in/matheuscunhaprado" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
