@@ -2,7 +2,7 @@
   <p>
     <strong>Idiomas:</strong>
     <a href="README.md">🇧🇷 Português</a>
-     | 
+     | 
     <a href="README.en.md">🇺🇸 English</a>
   </p>
 </div>
@@ -11,7 +11,7 @@
 
 ## Olá 👋! Meu nome é Matheus Cunha e sou um desenvolvedor back-end.
 
-#### Atualmente estou no 4º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
+#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
 
 <div align="center">
 <!-- Add grafico de linguagens dps -->
@@ -72,18 +72,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo" title="WebStorm" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" title="DataGrip" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30" alt="linux logo" title="Linux" />
 </div>
 
-## Projetos em Destaque 🚀
+## Projetos em Desenvolvimento 🚧
 
-* **AcadEx - Academic Exchange** – Dono e fundador da [Campus Code Team](https://github.com/Campus-Code-Team), liderando um projeto colaborativo para criar uma plataforma SaaS voltada para a comunidade acadêmica. Atuo como gestor e desenvolvedor back-end com Java. Mais novidades em breve!  
-* **Plataforma Full-Stack IoT** – Colaborando com colegas para construir uma solução IoT completa (hardware + backend + frontend). Fique ligado para atualizações!  
-* **Pesquisa Científica (IA + Meio Ambiente)** – Trabalhando na otimização do modelo YOLOv11 para identificar espécies de árvores no bioma do Cerrado brasileiro. Focado em estratégias de ajuste fino e treinamento personalizado para melhorar a precisão em cenários ecológicos reais.
+* **Igreja Batista Maranatha** – Sistema completo de gerenciamento para igrejas desenvolvido em Java com Spring Framework. O projeto abrange gestão de membros, eventos, finanças e comunicação interna, oferecendo uma solução robusta e escalável para administração eclesiástica. Implementado com arquitetura em camadas, utiliza PostgreSQL como banco de dados e segue as melhores práticas de desenvolvimento com testes automatizados e CI/CD.
+
+* **TerraSync** – Plataforma colaborativa para conectar desenvolvedores e facilitar o trabalho em equipe em projetos de software. Em desenvolvimento ativo.
 
 ## Contato
 
