@@ -9,12 +9,12 @@
 
 ---
 
-## Hello 👋! My name is Matheus Cunha and I'm a back-end developer.
+## Hello 👋! My name is Matheus Cunha and I'm a Full-Stack Developer.
 
-#### I'm currently in my 5th semester of ADS (Systems Analysis and Development). Although most of my repositories are private (ongoing team projects!), I'll soon be sharing more complete portfolio repositories! 🚀
+#### I am currently in my 5th semester of Systems Analysis and Development. Although most of my repositories are private (ongoing team projects!), I will soon share more about my progress and side projects here and on LinkedIn.
 
 <div align="center">
-<!-- Add grafico de linguagens dps -->
+<!-- Add language stats later -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
@@ -22,11 +22,7 @@
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   
   <!-- Databases -->
@@ -35,8 +31,10 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
   
-  <!-- Frameworks & Backend Tools -->
+  <!-- Frameworks & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" title="Spring Framework" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo" title="Apache Maven" />
   <img width="12" />
@@ -51,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" title="Kubernetes" />
   <img width="12" />
   
-  <!-- Testing/API/Quality Tools -->
+  <!-- Testing/API/QA Tools -->
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" title="Postman" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="insomnia logo" title="Insomnia" />
@@ -81,9 +79,9 @@
 
 ## Projects in Development 🚧
 
-* **Igreja Batista Maranatha** – Comprehensive church management system developed in Java with Spring Framework. The project encompasses member management, events, finances, and internal communication, offering a robust and scalable solution for ecclesiastical administration. Implemented with layered architecture, it uses PostgreSQL as the database and follows development best practices with automated testing and CI/CD.
+* **Igreja Batista Maranatha** – A complete church management system developed in Java with Spring Framework. The project covers member management, events, finances, and communications, aiming to securely and efficiently digitize and automate the congregation's daily processes.
 
-* **TerraSync** – Collaborative platform to connect developers and facilitate teamwork on software projects. Actively under development.
+* **TerraSync** – A collaborative platform to connect developers and facilitate teamwork in software projects. In active development.
 
 ## Contact
 
