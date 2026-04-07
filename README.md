@@ -9,9 +9,9 @@
 
 ---
 
-## Olá 👋! Meu nome é Matheus Cunha e sou um desenvolvedor back-end.
+## Olá 👋! Meu nome é Matheus Cunha e sou um Desenvolvedor Full-Stack.
 
-#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei repositórios de portfólio mais completos! 🚀
+#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei mais sobre meu progresso e projetos paralelos aqui e no LinkedIn.
 
 <div align="center">
 <!-- Add grafico de linguagens dps -->
@@ -22,11 +22,7 @@
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   
   <!-- Bancos de Dados -->
@@ -35,8 +31,10 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
   
-  <!-- Frameworks & Ferramentas Backend -->
+  <!-- Frameworks & Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" title="Spring Framework" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo" title="Apache Maven" />
   <img width="12" />
@@ -81,7 +79,7 @@
 
 ## Projetos em Desenvolvimento 🚧
 
-* **Igreja Batista Maranatha** – Sistema completo de gerenciamento para igrejas desenvolvido em Java com Spring Framework. O projeto abrange gestão de membros, eventos, finanças e comunicação interna, oferecendo uma solução robusta e escalável para administração eclesiástica. Implementado com arquitetura em camadas, utiliza PostgreSQL como banco de dados e segue as melhores práticas de desenvolvimento com testes automatizados e CI/CD.
+* **Igreja Batista Maranatha** – Sistema completo de gerenciamento para igrejas desenvolvido em Java com Spring Framework. O projeto abrange gestão de membros, eventos, finanças e comunicações, visando digitalizar e automatizar os processos do dia a dia da congregação de forma segura e eficiente.
 
 * **TerraSync** – Plataforma colaborativa para conectar desenvolvedores e facilitar o trabalho em equipe em projetos de software. Em desenvolvimento ativo.
 
