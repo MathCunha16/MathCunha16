@@ -14,7 +14,7 @@
 #### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei mais do meu trabalho aqui.
 
 <div align="center">
-  <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true" alt="Gráfico de linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Gráfico de linguagens mais usadas" height="150" />
   <img width="12" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
