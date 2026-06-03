@@ -11,10 +11,10 @@
 
 ## Olá 👋! Meu nome é Matheus Cunha e sou um Desenvolvedor Full-Stack.
 
-#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei mais do meu trabalho aqui.
+#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei mais detalhes sobre meus projetos. Enquanto isso, sinta-se livre para explorar meu portfólio! 😊
 
 <div align="center">
-  <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Gráfico de linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Gráfico de linguagens mais usadas" />
   <img width="12" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MathCunha16&theme=radical" height="150" alt="GitHub Streak" />
 </div>
@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" title="Amazon AWS" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo" title="Cloudflare" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" title="Nginx" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="ci/cd logo" title="CI/CD (GitHub Actions)" />
@@ -58,12 +60,14 @@
   <img src="https://cdn.simpleicons.org/cockpit" height="30" alt="cockpit logo" title="Cockpit" />
   <img width="12" />
 
-  <!-- Ferramentas de Teste/API/Qualidade -->
+  <!-- Ferramentas de Teste/API/Qualidade/Automação -->
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" title="Postman" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="insomnia logo" title="Insomnia" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="30" alt="sonarqube logo" title="SonarQube" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n/DF0000" height="30" alt="n8n logo" title="n8n" />
   <img width="12" />
 
   <!-- Outras Ferramentas -->
@@ -79,7 +83,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" title="DataGrip" />
   <img width="12" />
@@ -91,7 +95,7 @@
 ## Projetos em Destaque 🚀
 
 * **Igreja Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
-  Sistema completo focado na gestão de acervo de vídeos, gestão de membros de ministérios e gestão de compras de ingressos de eventos, incluindo a geração dos ingressos com segurança, entre outras funcionalidades. *(Finalizado e em produção!)*
+  Sistema completo focado na gestão de acervo de vídeos, gestão de membros de ministérios e gestão de compras de ingressos de eventos, incluindo a geração dos ingressos com segurança, entre outras funcionalidades.
 
 ## Contato
 
