@@ -11,7 +11,7 @@
 
 ## Hello 👋! My name is Matheus Cunha and I am a Full-Stack Developer.
 
-#### Currently in my 5th semester of Systems Analysis and Development. Although most of my repositories are private (ongoing team projects!), I will soon share more about my progress and side projects.
+#### Currently in my 5th semester of Systems Analysis and Development. Although most of my repositories are private (ongoing team projects!), I will soon share more about my progress and side projects. Feel free to explore my portfolio in the meantime! 😊
 
 <div align="center">
   <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Top Languages Chart" />
@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" title="Amazon AWS" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo" title="Cloudflare" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" title="Nginx" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="ci/cd logo" title="CI/CD (GitHub Actions)" />
@@ -58,12 +60,14 @@
   <img src="https://cdn.simpleicons.org/cockpit" height="30" alt="cockpit logo" title="Cockpit" />
   <img width="12" />
 
-  <!-- Testing/API/Quality Tools -->
+  <!-- Testing/API/Quality/Automation Tools -->
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" title="Postman" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="insomnia logo" title="Insomnia" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="30" alt="sonarqube logo" title="SonarQube" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/n8n/DF0000" height="30" alt="n8n logo" title="n8n" />
   <img width="12" />
 
   <!-- Other Tools -->
@@ -79,7 +83,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
-  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity" />
+  <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" title="DataGrip" />
   <img width="12" />
