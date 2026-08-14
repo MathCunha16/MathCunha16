@@ -11,7 +11,7 @@
 
 ## Hello 👋! My name is Matheus Cunha and I am a Full-Stack Developer.
 
-#### Currently in my 5th semester of Systems Analysis and Development. Although most of my repositories are private (ongoing team projects!), I will soon share more about my progress and side projects. Feel free to explore my portfolio in the meantime! 😊
+#### Currently in my 6th semester of Systems Analysis and Development. Although most of my repositories are private (ongoing team projects!), I will soon share more about my progress and side projects. Feel free to explore my portfolio in the meantime! 😊
 
 <div align="center">
   <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Top Languages Chart" />
@@ -20,22 +20,26 @@
 </div>
 
 <div align="left">
-  <!-- Languages -->
+  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo" title="Go (Golang)" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
+<img width="12" />
 
-  <!-- Databases -->
+  <!-- Bancos de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
 
-  <!-- Frameworks & Tools -->
+  <!-- Frameworks & Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" title="Spring Framework" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tauri/24C8DB" height="30" alt="tauri logo" title="Tauri (v2)" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo" title="Apache Maven" />
   <img width="12" />
@@ -60,7 +64,7 @@
   <img src="https://cdn.simpleicons.org/cockpit" height="30" alt="cockpit logo" title="Cockpit" />
   <img width="12" />
 
-  <!-- Testing/API/Quality/Automation Tools -->
+  <!-- Ferramentas de Teste/API/Qualidade/Automação -->
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" title="Postman" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="insomnia logo" title="Insomnia" />
@@ -70,7 +74,7 @@
   <img src="https://cdn.simpleicons.org/n8n/DF0000" height="30" alt="n8n logo" title="n8n" />
   <img width="12" />
 
-  <!-- Other Tools -->
+  <!-- Outras Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" title="Arduino" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" title="Git" />
@@ -83,6 +87,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="30" alt="goland logo" title="Goland IDE" />
+  <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" title="DataGrip" />
@@ -94,8 +100,11 @@
 
 ## Featured Projects 🚀
 
-* **Igreja Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
-  A comprehensive system focused on video archive management, ministry member management, and event ticket purchasing management, including secure ticket generation, scanning, and more.
+* **Devaulty** – [github.com/MathCunha16/Devaulty](https://github.com/MathCunha16/Devaulty)  
+  Local-first desktop application for developer project management, encrypted credential storage (Argon2id + AES-GCM), code snippets vault, and issue tracking.
+
+* **Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
+  Comprehensive system focused on video media management, ministry member administration, and secure event ticketing system.
 
 ## Contact
 
