@@ -11,8 +11,6 @@
 
 ## Olá 👋! Meu nome é Matheus Cunha e sou um Desenvolvedor Full-Stack.
 
-#### Atualmente estou no 5º semestre de ADS (Análise e Desenvolvimento de Sistemas). Embora a maioria dos meus repositórios sejam privados (projetos em equipe em andamento!), em breve compartilharei mais detalhes sobre meus projetos. Enquanto isso, sinta-se livre para explorar meu portfólio! 😊
-
 <div align="center">
   <img src="https://github-readme-stats-vercel-two-chi.vercel.app/api/top-langs/?username=MathCunha16&layout=compact&theme=radical&count_private=true&v=123" alt="Gráfico de linguagens mais usadas" />
   <img width="12" />
@@ -22,9 +20,11 @@
 <div align="left">
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo" title="Go (Golang)" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="TypeScript" />
+<img width="12" />
 
   <!-- Bancos de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" title="MySQL" />
@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" title="Spring Framework" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tauri/24C8DB" height="30" alt="tauri logo" title="Tauri (v2)" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="30" alt="apachemaven logo" title="Apache Maven" />
   <img width="12" />
@@ -83,6 +85,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="30" alt="goland logo" title="Goland IDE" />
+  <img width="12" />
   <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo" title="DataGrip" />
@@ -94,8 +98,12 @@
 
 ## Projetos em Destaque 🚀
 
-* **Igreja Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
+* **Devaulty** – [github.com/MathCunha16/Devaulty](https://github.com/MathCunha16/Devaulty)  
+  Aplicação desktop local-first para gestão de projetos de dev, armazenamento criptografado de credenciais (Argon2id + AES-GCM), cofres de snippets e rastreamento de tarefas.
+
+* **Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
   Sistema completo focado na gestão de acervo de vídeos, gestão de membros de ministérios e gestão de compras de ingressos de eventos, incluindo a geração dos ingressos com segurança, entre outras funcionalidades.
+
 
 ## Contato
 
