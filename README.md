@@ -122,20 +122,16 @@
     </td>
   </tr>
   <tr>
-    <td valign="middle"><strong>🛠️ IDEs, DB Clients & Terminal</strong></td>
-    <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellijidea logo" title="IntelliJ IDEA Ultimate" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo" title="PyCharm" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="30" alt="goland logo" title="Goland IDE" />
-      <img width="12" />
-      <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png" height="30" alt="dbx logo" title="DBX (Database Client)" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/termius/00BCD4" height="30" alt="termius logo" title="Termius" />
-    </td>
+  <td valign="middle"><strong>🛠️ IDEs, DB Clients & Terminal</strong></td>
+  <td valign="middle">
+    <img src="https://raw.githubusercontent.com/MathCunha16/OpenIDEA-Discord-RCP/main/assets/icons/openidea.png" height="30" alt="openidea logo" title="OpenIDEA" />
+    <img width="12" />
+    <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
+    <img width="12" />
+    <img src="https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png" height="30" alt="dbx logo" title="DBX (Database Client)" />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/termius/00BCD4" height="30" alt="termius logo" title="Termius" />
+  </td>
   </tr>
   <tr>
     <td valign="middle"><strong>🐧 SO & Embarcados</strong></td>
@@ -153,6 +149,9 @@
 
 - **Devaulty** – [github.com/MathCunha16/Devaulty](https://github.com/MathCunha16/Devaulty)  
   Aplicação desktop local-first para gestão de projetos de dev, armazenamento criptografado de credenciais (Argon2id + AES-GCM), cofres de snippets e rastreamento de tarefas.
+
+- **OpenIDEA Discord Rich Presence** – [github.com/MathCunha16/OpenIDEA-Discord-RCP](https://github.com/MathCunha16/OpenIDEA-Discord-RCP)  
+  Plugin de Discord Rich Presence para a IDE OpenIDEA, escrito em Go e compilado para WebAssembly (Component Model), com reconhecimento de 250+ linguagens, temas de ícones, modo de privacidade e instalação em 1 clique pelo marketplace.
 
 - **Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
   Sistema completo focado na gestão de acervo de vídeos, gestão de membros de ministérios e gestão de compras de ingressos de eventos, incluindo a geração dos ingressos com segurança, entre outras funcionalidades.
