@@ -122,20 +122,16 @@
       <img src="https://cdn.simpleicons.org/insomnia/4000BF" height="30" alt="Insomnia" title="Insomnia" />
     </td>
   </tr>
-  <tr>
-    <td valign="middle"><strong>🛠️ IDEs, Database Clients & Terminal</strong></td>
+   <tr>
+    <td valign="middle"><strong>🛠️ IDEs, DB Clients & Terminal</strong></td>
     <td valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ IDEA" title="IntelliJ IDEA Ultimate" />
+      <img src="https://raw.githubusercontent.com/MathCunha16/OpenIDEA-Discord-RCP/main/assets/icons/openidea.png" height="30" alt="openidea logo" title="OpenIDEA" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" title="PyCharm" />
+      <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="antigravity logo" title="Antigravity IDE" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="30" alt="GoLand" title="GoLand IDE" />
+      <img src="https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png" height="30" alt="dbx logo" title="DBX (Database Client)" />
       <img width="12" />
-      <img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" height="30" alt="Antigravity" title="Antigravity IDE" />
-      <img width="12" />
-      <img src="https://raw.githubusercontent.com/t8y2/dbx/main/docs/logo.png" height="30" alt="DBX" title="DBX (Database Client)" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/termius/00BCD4" height="30" alt="Termius" title="Termius" />
+      <img src="https://cdn.simpleicons.org/termius/00BCD4" height="30" alt="termius logo" title="Termius" />
     </td>
   </tr>
   <tr>
@@ -154,6 +150,9 @@
 
 - **Devaulty** – [github.com/MathCunha16/Devaulty](https://github.com/MathCunha16/Devaulty)  
   A local-first desktop application for developer project management, encrypted credential storage (Argon2id + AES-GCM), code snippet vaults, and issue tracking.
+
+- **OpenIDEA Discord Rich Presence** – [github.com/MathCunha16/OpenIDEA-Discord-RCP](https://github.com/MathCunha16/OpenIDEA-Discord-RCP)  
+  Discord Rich Presence plugin for the OpenIDEA IDE, written in Go and compiled to WebAssembly (Component Model), with support for 250+ languages, icon themes, a privacy mode and 1-click install from the marketplace.
 
 - **Batista Maranatha (IBM)** – [batistamaranatha.com.br](https://batistamaranatha.com.br)  
   A comprehensive system for video library management, ministry member administration, and event ticket management, including secure ticket generation.
